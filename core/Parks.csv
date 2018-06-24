@@ -3,9 +3,10 @@ ALB01,Riverside Park,,Albany,NY,US
 ALT01,Columbia Park,,Altoona,PA,US
 ANA01,Angel Stadium of Anaheim,Edison Field; Anaheim Stadium,Anaheim,CA,US
 ARL01,Arlington Stadium,,Arlington,TX,US
-ARL02,Rangers Ballpark in Arlington,The Ballpark in Arlington; Ameriquest Field,Arlington,TX,US
+ARL02,Rangers Ballpark in Arlington,The Ballpark in Arlington; Ameriquest Fl,Arlington,TX,US
 ATL01,Atlanta-Fulton County Stadium,,Atlanta,GA,US
 ATL02,Turner Field,,Atlanta,GA,US
+ATL03,Suntrust Park,,Atlanta,GA,US
 BAL01,Madison Avenue Grounds,,Baltimore,MD,US
 BAL02,Newington Park,,Baltimore,MD,US
 BAL03,Oriole Park I,,Baltimore,MD,US
@@ -79,10 +80,11 @@ ELM01,Maple Avenue Driving Park,,Elmira,NY,US
 FOR01,Grand Duchess,Hamilton Field,Fort Wayne,IN,US
 FOR03,Jailhouse Flats,,Fort Wayne,IN,US
 FTB01,Fort Bragg Field,,Fort Bragg,NC,US
-GEA01,Geauga Lake Grounds,,Geauga Lake,OH,US
+GEA01,Geauga Lake Grounds,Beyerle's Park,Geauga Lake,OH,US
 GLO01,Gloucester Point Grounds,,Gloucester City,NJ,US
 GRA01,Ramona Park,,Grand Rapids,MI,US
 HAR01,Harrison Field,,Harrison,NJ,US
+HOB01,Elysian Field,,Hoboken,NJ,US
 HON01,Aloha Stadium,,Honolulu,HI,US
 HOU01,Colt Stadium,,Houston,TX,US
 HOU02,Astrodome,,Houston,TX,US
@@ -97,7 +99,7 @@ IND05,Seventh Street Park III,,Indianapolis,IN,US
 IND06,Indianapolis Park,,Indianapolis,IN,US
 IND07,Federal League Park,Washington Park,Indianapolis,IN,US
 IRO01,Windsor Beach,,Irondequoit,NY,US
-JER01,Oakland Park,,Jersey City,NJ,US
+JER01,Oakdale Park,,Jersey City,NJ,US
 JER02,Roosevelt Stadium,,Jersey City,NJ,US
 KAN01,Athletic Park,,Kansas City,MO,US
 KAN02,Association Park,,Kansas City,MO,US
@@ -117,7 +119,7 @@ LOU03,Eclipse Park II,,Louisville,KY,US
 LOU04,Eclipse Park III,,Louisville,KY,US
 LUD01,Ludlow Baseball Park,,Ludlow,KY,US
 MAS01,Long Island Grounds,,Maspeth,NY,US
-MIA01,Sun Life Stadium,Joe Robbie Stadium; Pro Player Stadium; Dolphin Stadium; LandShark Stadium,Miami,FL,US
+MIA01,Sun Life Stadium,JoeRobbie; ProPlayer; Dolphin; LandShark,Miami,FL,US
 MIA02,Marlins Park,,Miami,FL,US
 MID01,Mansfield Club Grounds,,Middletown,CT,US
 MIL01,Milwaukee Base-Ball Grounds,,Milwaukee,WI,US
@@ -135,7 +137,7 @@ MON01,Parc Jarry,Jarry Park,Montreal,QC,CA
 MON02,Stade Olympique,Olympic Stadium,Montreal,QC,CA
 NEW01,Howard Avenue Grounds,Brewster Park,New Haven,CT,US
 NEW02,Hamilton Park,,New Haven,CT,US
-NEW03,Beyerle's Park,Forest City Park,Newburgh Township,OH,US
+NEW03,Geauga Lake Grounds,Beyerle's Park,Geauga Lake,OH,US
 NWK01,Wiedenmeyer's Park,,Newark,NJ,US
 NYC01,Union Grounds,,Brooklyn,NY,US
 NYC02,Capitoline Grounds,,Brooklyn,NY,US
@@ -244,6 +246,7 @@ WAV01,Waverly Fairgrounds,,Waverly,NJ,US
 WEE01,Monitor Grounds,,Weehawken,NJ,US
 WHE01,Island Grounds,,Wheeling,WV,US
 WIL01,Union Street Park,,Wilmington,DE,US
+WIL02,BB&T Ballpark at Bowman Field,,Williamsport,PA,US
 WNY01,West New York Field Club Grounds,,West New York,NJ,US
 WOR01,Agricultural County Fair Grounds I,,Worcester,MA,US
 WOR02,Agricultural County Fair Grounds II,,Worcester,MA,US
