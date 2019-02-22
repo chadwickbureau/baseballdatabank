@@ -12,7 +12,7 @@ README CONTENTS
 1.0 Release Contents
 1.1 Introduction
 1.2 What's New
-1.3 Acknowledgements
+1.3 Acknowledgments
 1.4 Using this Database
 1.5 Revision History
 
@@ -127,7 +127,7 @@ make baseball statistics freely available to the general public. What
 started as a one man effort in 1994 has grown tremendously, and now a
 team of researchers have collected their efforts to make this the
 largest and most accurate source for baseball statistics available
-anywhere. (See Acknowledgements below for a list of the key
+anywhere. (See Acknowledgments below for a list of the key
 contributors to this project.)
 
 None of what we have done would have been possible without the
@@ -137,7 +137,7 @@ to the people who have worked so hard to build the tremendous set
 of data that we have today.  Our thanks also to the many members of
 the Society for American Baseball Research who have helped us over
 the years.  We strongly urge you to support and join their efforts.
-Please vist their website (www.sabr.org).
+Please visit their website (www.sabr.org).
 
 If you have any problems or find any errors, please let us know.  Any 
 feedback is appreciated
@@ -149,7 +149,7 @@ Player stats have been updated through 2014 season.
 
 Removed two deprecated fields from the batting table. The G_batting and
 G_old fields were rendered obsolete when we created the appearances table.
-They've beenremoved from the batting table starting with this version
+They've been removed from the batting table starting with this version
 
 SchoolsPlayers has been replaced with a new table called CollegePlaying.
 This reflects advances in the compilation of this data, largely led by
@@ -161,11 +161,11 @@ skipped a season, as well as to identify teammates.
 
 
 ----------------------------------------------------------------------
-1.3 Acknowledgements
+1.3 Acknowledgments
 
 Much of the raw data contained in this database comes from the work of
 Pete Palmer, the legendary statistician, who has had a hand in most 
-of the baseball encylopedias published since 1974. He is largely 
+of the baseball encyclopedias published since 1974. He is largely 
 responsible for bringing the batting, pitching, and fielding data out
 of the dark ages and into the computer era.  Without him, none of this
 would be possible.  For more on Pete's work, please read his own 
@@ -173,7 +173,7 @@ account at: http://sabr.org/cmsfiles/PalmerDatabaseHistory.pdf
 
 Three people have been key contributors to the work that followed, first 
 by taking the raw data and creating a relational database, and later 
-by extending the database to make it more accesible to researchers.
+by extending the database to make it more accessible to researchers.
 
 Sean Lahman launched the Baseball Archive's website back before 
 most people had heard of the world wide web.  Frustrated by the
@@ -186,7 +186,7 @@ developing databases for other sports.
 
 The work of Sean Forman to create and maintain an online encyclopedia
 at "baseball-reference.com" has been remarkable. Recognized as the 
-premier online reference source, Forman's site provides an oustanding
+premier online reference source, Forman's site provides an outstanding
 interface to the raw data. His efforts to help streamline the database
 have been extremely helpful. Most importantly, Forman has spearheaded
 the effort to provide standards that enable several different baseball
@@ -198,7 +198,7 @@ Since 2001, these two Seans have led a group of researchers
 who volunteered to maintain and update the database. 
 
 Ted Turocy has done the lion's share of the work to updating the main
-data tables since 2012, including significant imporvements to the
+data tables since 2012, including significant improvements to the
 demographic data in the master table. In his role as SABR data czar,
 he led the effort to document college playing stints for all
 major league players. Turocy also spearheads the Chadwick Baseball
@@ -275,7 +275,7 @@ a database application or some other application designed specifically
 to interact with the database.
 
 If you are unable to import the data directly, you should download the
-database in the delimted text format.  Then use the documentation
+database in the delimited text format.  Then use the documentation
 in sections 2.1 through 2.22 of this document to import the data into
 your database application. 
 
@@ -294,7 +294,7 @@ your database application.
        1.41     November 1995     1995 statistics added
        1.42     March 1996        HOF/All-Star tables added
        1.5-MS   October 1996      1st public release - MS Access format
-       1.5-GV   October 1996      Released generic comma-delimted files
+       1.5-GV   October 1996      Released generic comma-delimited files
        1.6-MS   December 1996     Updated with 1996 stats, some corrections
        1.61-MS  December 1996     Corrected error in MASTER table
        1.62     February 1997     Corrected 1914-1915 batters data and updated
@@ -367,7 +367,7 @@ detail and the fields that each contains.
 2.1 MASTER table
 
 
-playerID       A unique code asssigned to each player.  The playerID links
+playerID       A unique code assigned to each player.  The playerID links
                  the data in this file with records in the other files.
 birthYear      Year player was born
 birthMonth     Month player was born
@@ -630,7 +630,7 @@ GIDP           Grounded into Double Plays
 
 franchID       Franchise ID
 franchName     Franchise name
-active         Whetehr team is currently active (Y or N)
+active         Whether team is currently active (Y or N)
 NAassoc        ID of National Association team franchise played as
 
 ------------------------------------------------------------------------------
@@ -722,7 +722,7 @@ yearID         Year
 lgID           League
 playerID       Manager ID code
 pointsWon      Number of points received
-pointsMax      Maximum numner of points possible
+pointsMax      Maximum number of points possible
 votesFirst     Number of first place votes
 
 ------------------------------------------------------------------------------
@@ -733,7 +733,7 @@ yearID         Year
 lgID           League
 playerID       Player ID code
 pointsWon      Number of points received
-pointsMax      Maximum numner of points possible
+pointsMax      Maximum number of points possible
 votesFirst     Number of first place votes
 
 ------------------------------------------------------------------------------
