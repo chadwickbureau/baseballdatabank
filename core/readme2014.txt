@@ -389,7 +389,7 @@ height         Player's height in inches
 bats           Player's batting hand (left, right, or both)         
 throws         Player's throwing hand (left or right)
 debut          Date that player made first major league appearance
-finalGame      Date that player made first major league appearance (blank if still active)
+finalGame      Date that player made last major league appearance (blank if still active)
 retroID        ID used by retrosheet
 bbrefID        ID used by Baseball Reference website
 
