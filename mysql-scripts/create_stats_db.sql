@@ -1,4 +1,4 @@
--- create db for lahman database
+-- create db for chadwick bureau database
 -- 2015 version
 
 CREATE DATABASE  IF NOT EXISTS `stats` /*!40100 DEFAULT CHARACTER SET utf8 */;
