@@ -81,7 +81,7 @@ yearID,lgID,teamID,franchID,divID,Rank,Ghome,DivWin,WCWin,LgWin,WSWin,name,park,
 1880,NL,BSN,ATL,,6,,,,N,,Boston Red Caps,South End Grounds I,,97,96,BSN,BSN,BSN
 1880,NL,CHN,CHC,,1,,,,Y,,Chicago White Stockings,Lake Front Park I,,106,102,CHC,CHN,CHN
 1880,NL,CL2,CBL,,3,,,,N,,Cleveland Blues,Kennard Street Park,,98,99,CLV,CL2,CL2
-1880,NL,CN1,CNR,,8,,,,N,,Cincinnati Reds,Bank Street Grounds,,98,104,CIN,CN1,CN1
+1880,NL,CN1,CNR,,8,,,,N,,Cincinnati Reds,Bank Street Grounds,,98,104,CIN,CN1,CN4
 1880,NL,PRO,PRO,,2,,,,N,,Providence Grays,Messer Street Grounds,,97,93,PRO,PRO,PRO
 1880,NL,TRN,TRT,,4,,,,N,,Troy Trojans,Haymakers' Grounds,,105,106,TRO,TRN,TRN
 1880,NL,WOR,WOR,,5,,,,N,,Worcester Ruby Legs,Worcester Driving Park Grounds,,108,109,WOR,WOR,WOR
@@ -94,7 +94,7 @@ yearID,lgID,teamID,franchID,divID,Rank,Ghome,DivWin,WCWin,LgWin,WSWin,name,park,
 1881,NL,TRN,TRT,,5,,,,N,,Troy Trojans,Haymakers' Grounds,,105,106,TRO,TRN,TRN
 1881,NL,WOR,WOR,,8,,,,N,,Worcester Ruby Legs,Worcester Driving Park Grounds,,105,108,WOR,WOR,WOR
 1882,NL,BFN,BUF,,3,,,,N,,Buffalo Bisons,Riverside Park,,102,101,BUF,BFN,BFN
-1882,AA,BL2,BLO,,6,,,,N,,Baltimore Orioles,Newington Park,,90,100,BAL,BL2,BL2
+1882,AA,BL2,BLO,,6,,,,N,,Baltimore Orioles,Newington Park,,90,100,BAL,BL2,BL5
 1882,NL,BSN,ATL,,3,,,,N,,Boston Red Caps,South End Grounds I,,100,98,BSN,BSN,BSN
 1882,NL,CHN,CHC,,1,,,,Y,,Chicago White Stockings,Lake Front Park I/Lake Front Park II,,105,99,CHC,CHN,CHN
 1882,NL,CL2,CBL,,5,,,,N,,Cleveland Blues,Kennard Street Park,,97,97,CLV,CL2,CL2
@@ -2771,7 +2771,7 @@ yearID,lgID,teamID,franchID,divID,Rank,Ghome,DivWin,WCWin,LgWin,WSWin,name,park,
 2014,NL,SFN,SFG,W,2,81,N,Y,Y,Y,San Francisco Giants,AT&T Park,3368697,95,95,SFG,SFN,SFN
 2014,NL,SLN,STL,C,1,81,Y,N,N,N,St. Louis Cardinals,Busch Stadium III,3540649,101,100,STL,SLN,SLN
 2014,AL,TBA,TBD,E,4,81,N,N,N,N,Tampa Bay Rays,Tropicana Field,1446464,97,97,TBR,TBA,TBA
-2014,AL,TEX,TEX,W,5,81,N,N,N,N,Texas Rangers,Rangers Ballpark in Arlington,2718733,101,101,TEX,TEX,TEX
+2014,AL,TEX,TEX,W,5,81,N,N,N,N,Texas Rangers,Globe Life Park in Arlington,2718733,101,101,TEX,TEX,TEX
 2014,AL,TOR,TOR,E,3,81,N,N,N,N,Toronto Blue Jays,Rogers Centre,2375525,102,102,TOR,TOR,TOR
 2014,NL,WAS,WSN,E,1,81,Y,N,N,N,Washington Nationals,Nationals Park,2579389,104,102,WSN,MON,WAS
 2015,NL,ARI,ARI,W,3,81,N,N,N,N,Arizona Diamondbacks,Chase Field,2080145,107,106,ARI,ARI,ARI
@@ -2801,7 +2801,7 @@ yearID,lgID,teamID,franchID,divID,Rank,Ghome,DivWin,WCWin,LgWin,WSWin,name,park,
 2015,NL,SFN,SFG,W,2,81,N,N,N,N,San Francisco Giants,AT&T Park,3375882,99,97,SFG,SFN,SFN
 2015,NL,SLN,STL,C,1,81,Y,N,N,N,St. Louis Cardinals,Busch Stadium III,3520889,102,101,STL,SLN,SLN
 2015,AL,TBA,TBD,E,4,84,N,N,N,N,Tampa Bay Rays,Tropicana Field,1287054,100,102,TBR,TBA,TBA
-2015,AL,TEX,TEX,W,1,81,Y,N,N,N,Texas Rangers,Rangers Ballpark in Arlington,2491875,102,105,TEX,TEX,TEX
+2015,AL,TEX,TEX,W,1,81,Y,N,N,N,Texas Rangers,Globe Life Park in Arlington,2491875,102,105,TEX,TEX,TEX
 2015,AL,TOR,TOR,E,1,81,Y,N,N,N,Toronto Blue Jays,Rogers Centre,2794891,99,98,TOR,TOR,TOR
 2015,NL,WAS,WSN,E,2,81,N,N,N,N,Washington Nationals,Nationals Park,2619843,102,99,WSN,MON,WAS
 2016,NL,ARI,ARI,W,4,81,N,N,N,N,Arizona Diamondbacks,Chase Field,2036216,107,108,ARI,ARI,ARI
@@ -2831,14 +2831,14 @@ yearID,lgID,teamID,franchID,divID,Rank,Ghome,DivWin,WCWin,LgWin,WSWin,name,park,
 2016,NL,SFN,SFG,W,2,81,N,Y,N,N,San Francisco Giants,AT&T Park,3365256,103,102,SFG,SFN,SFN
 2016,NL,SLN,STL,C,2,81,N,N,N,N,St. Louis Cardinals,Busch Stadium III,3444490,100,99,STL,SLN,SLN
 2016,AL,TBA,TBD,E,5,81,N,N,N,N,Tampa Bay Rays,Tropicana Field,1286163,93,94,TBR,TBA,TBA
-2016,AL,TEX,TEX,W,1,81,Y,N,N,N,Texas Rangers,Rangers Ballpark in Arlington,2710402,106,105,TEX,TEX,TEX
+2016,AL,TEX,TEX,W,1,81,Y,N,N,N,Texas Rangers,Globe Life Park in Arlington,2710402,106,105,TEX,TEX,TEX
 2016,AL,TOR,TOR,E,2,81,N,Y,N,N,Toronto Blue Jays,Rogers Centre,3392099,111,110,TOR,TOR,TOR
 2016,NL,WAS,WSN,E,1,81,Y,N,N,N,Washington Nationals,Nationals Park,2481938,100,98,WSN,MON,WAS
 2017,NL,ARI,ARI,W,2,81,N,Y,N,N,Arizona Diamondbacks,Chase Field,2134375,110,110,ARI,ARI,ARI
 2017,NL,ATL,ATL,E,3,81,N,N,N,N,Atlanta Braves,SunTrust Park,2505252,98,98,ATL,ATL,ATL
 2017,AL,BAL,BAL,E,5,81,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,2028424,98,99,BAL,BAL,BAL
 2017,AL,BOS,BOS,E,1,81,Y,N,N,N,Boston Red Sox,Fenway Park II,2917678,105,104,BOS,BOS,BOS
-2017,AL,CHA,CHW,C,4,81,N,N,N,N,Chicago White Sox,U.S. Cellular Field,1629470,98,98,CHW,CHA,CHA
+2017,AL,CHA,CHW,C,4,81,N,N,N,N,Chicago White Sox,Guaranteed Rate Field,1629470,98,98,CHW,CHA,CHA
 2017,NL,CHN,CHC,C,1,81,Y,N,N,N,Chicago Cubs,Wrigley Field,3199562,102,100,CHC,CHN,CHN
 2017,NL,CIN,CIN,C,5,81,N,N,N,N,Cincinnati Reds,Great American Ball Park,1836917,100,101,CIN,CIN,CIN
 2017,AL,CLE,CLE,C,1,81,Y,N,N,N,Cleveland Indians,Progressive Field,2048138,106,104,CLE,CLE,CLE
@@ -2861,6 +2861,66 @@ yearID,lgID,teamID,franchID,divID,Rank,Ghome,DivWin,WCWin,LgWin,WSWin,name,park,
 2017,NL,SFN,SFG,W,5,81,N,N,N,N,San Francisco Giants,AT&T Park,3303652,96,96,SFG,SFN,SFN
 2017,NL,SLN,STL,C,3,81,N,N,N,N,St. Louis Cardinals,Busch Stadium III,3447937,98,98,STL,SLN,SLN
 2017,AL,TBA,TBD,E,3,81,N,N,N,N,Tampa Bay Rays,Tropicana Field,1253619,94,94,TBR,TBA,TBA
-2017,AL,TEX,TEX,W,4,81,N,N,N,N,Texas Rangers,Rangers Ballpark in Arlington,2507760,107,107,TEX,TEX,TEX
+2017,AL,TEX,TEX,W,4,81,N,N,N,N,Texas Rangers,Globe Life Park in Arlington,2507760,107,107,TEX,TEX,TEX
 2017,AL,TOR,TOR,E,4,81,N,N,N,N,Toronto Blue Jays,Rogers Centre,3203886,105,105,TOR,TOR,TOR
 2017,NL,WAS,WSN,E,1,81,Y,N,N,N,Washington Nationals,Nationals Park,2524980,103,102,WSN,MON,WAS
+2018,NL,ARI,ARI,W,3,81,N,N,N,N,Arizona Diamondbacks,Chase Field,2242695,108,107,ARI,ARI,ARI
+2018,NL,ATL,ATL,E,1,81,Y,N,N,N,Atlanta Braves,SunTrust Park,2555781,100,100,ATL,ATL,ATL
+2018,AL,BAL,BAL,E,5,81,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,1564192,96,97,BAL,BAL,BAL
+2018,AL,BOS,BOS,E,1,81,Y,N,Y,Y,Boston Red Sox,Fenway Park II,2895575,104,102,BOS,BOS,BOS
+2018,AL,CHA,CHW,C,4,81,N,N,N,N,Chicago White Sox,Guaranteed Rate Field,1608817,97,98,CHW,CHA,CHA
+2018,NL,CHN,CHC,C,2,82,N,Y,N,N,Chicago Cubs,Wrigley Field,3181089,107,106,CHC,CHN,CHN
+2018,NL,CIN,CIN,C,5,81,N,N,N,N,Cincinnati Reds,Great American Ball Park,1629356,103,104,CIN,CIN,CIN
+2018,AL,CLE,CLE,C,1,81,Y,N,N,N,Cleveland Indians,Progressive Field,1926701,104,102,CLE,CLE,CLE
+2018,NL,COL,COL,W,2,81,N,Y,N,N,Colorado Rockies,Coors Field,3015880,117,116,COL,COL,COL
+2018,AL,DET,DET,C,3,81,N,N,N,N,Detroit Tigers,Comerica Park,1856970,101,102,DET,DET,DET
+2018,AL,HOU,HOU,W,1,81,Y,N,N,N,Houston Astros,Minute Maid Park,2980549,96,94,HOU,HOU,HOU
+2018,AL,KCA,KCR,C,5,81,N,N,N,N,Kansas City Royals,Kauffman Stadium,1665107,99,100,KCR,KCA,KCA
+2018,AL,LAA,ANA,W,4,81,N,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,3020216,97,97,LAA,ANA,ANA
+2018,NL,LAN,LAD,W,1,82,Y,N,Y,N,Los Angeles Dodgers,Dodger Stadium,3857500,98,96,LAD,LAN,LAN
+2018,NL,MIA,FLA,E,5,81,N,N,N,N,Miami Marlins,Marlins Park,811104,89,90,MIA,FLO,MIA
+2018,NL,MIL,MIL,C,1,81,Y,N,N,N,Milwaukee Brewers,Miller Park,2850875,102,101,MIL,ML4,MIL
+2018,AL,MIN,MIN,C,2,81,N,N,N,N,Minnesota Twins,Target Field,1959197,102,102,MIN,MIN,MIN
+2018,AL,NYA,NYY,E,2,81,N,Y,N,N,New York Yankees,Yankee Stadium III,3482855,104,102,NYY,NYA,NYA
+2018,NL,NYN,NYM,E,4,81,N,N,N,N,New York Mets,Citi Field,2224995,90,91,NYM,NYN,NYN
+2018,AL,OAK,OAK,W,2,81,N,Y,N,N,Oakland Athletics,O.co Coliseum,1573616,98,97,OAK,OAK,OAK
+2018,NL,PHI,PHI,E,3,81,N,N,N,N,Philadelphia Phillies,Citizens Bank Park,2158124,102,103,PHI,PHI,PHI
+2018,NL,PIT,PIT,C,4,80,N,N,N,N,Pittsburgh Pirates,PNC Park,1465316,96,96,PIT,PIT,PIT
+2018,NL,SDN,SDP,W,5,81,N,N,N,N,San Diego Padres,Petco Park,2168536,94,95,SDP,SDN,SDN
+2018,AL,SEA,SEA,W,3,81,N,N,N,N,Seattle Mariners,Safeco Field,2299489,94,95,SEA,SEA,SEA
+2018,NL,SFN,SFG,W,4,81,N,N,N,N,San Francisco Giants,AT&T Park,3156185,95,96,SFG,SFN,SFN
+2018,NL,SLN,STL,C,3,81,N,N,N,N,St. Louis Cardinals,Busch Stadium III,3403587,97,96,STL,SLN,SLN
+2018,AL,TBA,TBD,E,3,81,N,N,N,N,Tampa Bay Rays,Tropicana Field,1154973,97,97,TBR,TBA,TBA
+2018,AL,TEX,TEX,W,5,81,N,N,N,N,Texas Rangers,Globe Life Park in Arlington,2107107,112,113,TEX,TEX,TEX
+2018,AL,TOR,TOR,E,4,81,N,N,N,N,Toronto Blue Jays,Rogers Centre,2325281,97,98,TOR,TOR,TOR
+2018,NL,WAS,WSN,E,2,81,N,N,N,N,Washington Nationals,Nationals Park,2529604,106,105,WSN,MON,WAS
+2019,NL,ARI,ARI,W,2,81,N,N,N,N,Arizona Diamondbacks,Chase Field,2135510,101,101,ARI,ARI,ARI
+2019,NL,ATL,ATL,E,1,81,Y,N,N,N,Atlanta Braves,SunTrust Park,2655100,105,103,ATL,ATL,ATL
+2019,AL,BAL,BAL,E,5,81,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,1307807,99,102,BAL,BAL,BAL
+2019,AL,BOS,BOS,E,3,81,N,N,N,N,Boston Red Sox,Fenway Park II,2924627,105,104,BOS,BOS,BOS
+2019,AL,CHA,CHW,C,3,80,N,N,N,N,Chicago White Sox,Guaranteed Rate Field,1649775,97,99,CHW,CHA,CHA
+2019,NL,CHN,CHC,C,3,81,N,N,N,N,Chicago Cubs,Wrigley Field,3094865,102,101,CHC,CHN,CHN
+2019,NL,CIN,CIN,C,4,81,N,N,N,N,Cincinnati Reds,Great American Ball Park,1808685,103,103,CIN,CIN,CIN
+2019,AL,CLE,CLE,C,2,81,N,N,N,N,Cleveland Indians,Progressive Field,1738642,104,102,CLE,CLE,CLE
+2019,NL,COL,COL,W,4,81,N,N,N,N,Colorado Rockies,Coors Field,2993244,118,118,COL,COL,COL
+2019,AL,DET,DET,C,5,81,N,N,N,N,Detroit Tigers,Comerica Park,1501430,102,104,DET,DET,DET
+2019,AL,HOU,HOU,W,1,81,Y,N,Y,N,Houston Astros,Minute Maid Park,2857367,103,100,HOU,HOU,HOU
+2019,AL,KCA,KCR,C,4,81,N,N,N,N,Kansas City Royals,Kauffman Stadium,1479659,101,102,KCR,KCA,KCA
+2019,AL,LAA,ANA,W,4,81,N,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,3019012,98,98,LAA,ANA,ANA
+2019,NL,LAN,LAD,W,1,81,Y,N,N,N,Los Angeles Dodgers,Dodger Stadium,3974309,96,94,LAD,LAN,LAN
+2019,NL,MIA,FLA,E,5,81,N,N,N,N,Miami Marlins,Marlins Park,811302,94,96,MIA,FLO,MIA
+2019,NL,MIL,MIL,C,2,81,N,Y,N,N,Milwaukee Brewers,Miller Park,2923333,101,101,MIL,ML4,MIL
+2019,AL,MIN,MIN,C,1,81,Y,N,N,N,Minnesota Twins,Target Field,2294152,100,99,MIN,MIN,MIN
+2019,AL,NYA,NYY,E,1,81,Y,N,N,N,New York Yankees,Yankee Stadium III,3304404,98,96,NYY,NYA,NYA
+2019,NL,NYN,NYM,E,3,81,N,N,N,N,New York Mets,Citi Field,2442532,92,92,NYM,NYN,NYN
+2019,AL,OAK,OAK,W,2,81,N,Y,N,N,Oakland Athletics,O.co Coliseum,1662211,95,93,OAK,OAK,OAK
+2019,NL,PHI,PHI,E,4,81,N,N,N,N,Philadelphia Phillies,Citizens Bank Park,2727421,102,102,PHI,PHI,PHI
+2019,NL,PIT,PIT,C,5,81,N,N,N,N,Pittsburgh Pirates,PNC Park,1491439,96,97,PIT,PIT,PIT
+2019,NL,SDN,SDP,W,5,81,N,N,N,N,San Diego Padres,Petco Park,2396399,95,96,SDP,SDN,SDN
+2019,AL,SEA,SEA,W,5,81,N,N,N,N,Seattle Mariners,T-Mobile Park,1791863,93,94,SEA,SEA,SEA
+2019,NL,SFN,SFG,W,3,81,N,N,N,N,San Francisco Giants,Oracle Park,2707760,94,95,SFG,SFN,SFN
+2019,NL,SLN,STL,C,1,81,Y,N,N,N,St. Louis Cardinals,Busch Stadium III,3480393,98,97,STL,SLN,SLN
+2019,AL,TBA,TBD,E,2,81,N,Y,N,N,Tampa Bay Rays,Tropicana Field,1178735,97,96,TBR,TBA,TBA
+2019,AL,TEX,TEX,W,3,81,N,N,N,N,Texas Rangers,Globe Life Park in Arlington,2132994,111,112,TEX,TEX,TEX
+2019,AL,TOR,TOR,E,4,81,N,N,N,N,Toronto Blue Jays,Rogers Centre,1750114,97,98,TOR,TOR,TOR
+2019,NL,WAS,WSN,E,2,81,N,Y,Y,Y,Washington Nationals,Nationals Park,2259781,106,104,WSN,MON,WAS
