@@ -14,12 +14,12 @@ http://creativecommons.org/licenses/by-sa/3.0/
    
 2. Pick either MySQL or postgres. YMMV, but on my MBP the postgres image is smaller and loads faster.  Both work.
 
-3. Change into the appropriate directory and initialize the db. E.g. for postgres, after ensuring that 
+3. Change into the appropriate directory and initialize the db. E.g. for postgres, after ensuring that docker is installed and ready
    ```
    cd pg-scripts
    sh init_pg_statsdb.sh
    ```
-   This will get you a running docker container from an image you can stop and start if you like, using the `start_db.sh` and `stop_db.sh` scripts in the same directory as the "init" command you picked.  
+   This will get you a running docker container named `bb-stats` by default, which is built from an image you can stop and start if you like, using the `start_db.sh` and `stop_db.sh` scripts in the same directory as the "init" command you picked.  
 
    You don't have to worry about the *.sql files or the run_*.sh files, as those are built into the image as some glue code to enable loading or tearing down the db
 
