@@ -6,7 +6,7 @@ function check_mysql() {
 }
 
 docker build -f Mysql-Dockerfile -t bb-stats .
-docker run -it --rm --name bb-stats -v $(pwd)/../core:/opt/core -p3306:3306 -e MYSQL_ROOT_PASSWORD=${DB_ROOT_PASSWD} -d bb-stats
+docker run --name bb-stats -v $(pwd)/../core:/opt/core -p3306:3306 -e MYSQL_ROOT_PASSWORD=${DB_ROOT_PASSWD} -d bb-stats
 
 check_mysql
 until [[ "${MY_STATUS}" == *"alive"* ]]
