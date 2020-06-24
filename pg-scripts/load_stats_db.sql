@@ -1,3 +1,5 @@
+\connect stats;
+
 \copy allstarfull FROM '../core/AllstarFull.csv' WITH CSV HEADER;
 \copy appearances FROM '../core/Appearances.csv' WITH CSV HEADER;
 \copy awardsmanagers FROM '../core/AwardsManagers.csv' WITH CSV HEADER;
