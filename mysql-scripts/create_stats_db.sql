@@ -1,4 +1,4 @@
--- create db for lahman database
+-- create db for chadwick bureau database
 -- 2015 version
 
 CREATE DATABASE  IF NOT EXISTS `stats` /*!40100 DEFAULT CHARACTER SET utf8 */;
@@ -204,6 +204,28 @@ CREATE TABLE `fieldingof` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
+DROP TABLE IF EXISTS `fieldingofsplit`;
+CREATE TABLE fieldingofsplit (
+  `playerID` text,
+  `yearID` int(11) DEFAULT null,
+  `stint` int(11) DEFAULT null,
+  `teamID` text,
+  `lgID` text,
+  `POS` text default null,
+  `G` int(11) DEFAULT null,
+  `GS` int(11) DEFAULT null,
+  `InnOuts` int(11) DEFAULT null,
+  `PO` int(11) DEFAULT null,
+  `A` int(11) DEFAULT null,
+  `E` int(11) DEFAULT null,
+  `DP` int(11) DEFAULT null,
+  `PB` int(11) DEFAULT null,
+  `WP` int(11) DEFAULT null,
+  `SB` int(11) DEFAULT null,
+  `CS` int(11) DEFAULT null,
+  `ZR` text
+);
+
 DROP TABLE IF EXISTS `fieldingpost`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
@@ -294,10 +316,10 @@ CREATE TABLE `managershalf` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
-DROP TABLE IF EXISTS `master`;
+DROP TABLE IF EXISTS `people`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `master` (
+CREATE TABLE `people` (
   `playerID` text,
   `birthYear` int(11) DEFAULT NULL,
   `birthMonth` int(11) DEFAULT NULL,
@@ -528,6 +550,6 @@ CREATE TABLE `teamshalf` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
-CREATE INDEX MASTER_PLAYER ON master ( playerID(10) );
+CREATE INDEX PEOPLE_PLAYER ON people ( playerID(10) );
 CREATE INDEX APP_TEAM ON appearances ( teamID(10) );
 CREATE INDEX APP_PLAYER ON appearances ( playerID(10) );
