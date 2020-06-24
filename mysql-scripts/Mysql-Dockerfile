@@ -1,0 +1,7 @@
+FROM mysql:latest
+RUN mkdir /opt/bbdata
+COPY create_stats_db.sql /opt/bbdata/create_stats_db.sql
+COPY load_stats_db.sql /opt/bbdata/load_stats_db.sql
+COPY bbstats-my.cnf /etc/mysql/conf.d/bbstats-my.cnf
+COPY run_data_load.sh /run_data_load.sh
+EXPOSE 3306

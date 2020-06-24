@@ -1,0 +1,9 @@
+[client]
+user=root
+password=changeme
+
+[mysqld]
+local-infile=1
+
+[mysql]
+local-infile=1
