@@ -17,4 +17,3 @@ do
 done
 
 docker exec -it bb-stats /bin/bash "run_data_load.sh"
-

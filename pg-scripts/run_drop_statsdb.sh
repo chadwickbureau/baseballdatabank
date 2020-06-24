@@ -2,4 +2,4 @@
 cd /opt/bbdata;
 
 echo "dropping stats db";
-mysql < drop_stats_db.sql;
+psql -U postgres -q -f drop_stats_db.sql 2>/dev/null;
