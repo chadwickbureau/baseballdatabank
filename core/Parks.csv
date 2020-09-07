@@ -42,7 +42,7 @@ CHI08,West Side Grounds,,Chicago,IL,US
 CHI09,South Side Park III,,Chicago,IL,US
 CHI10,Comiskey Park I,White Sox Park,Chicago,IL,US
 CHI11,Wrigley Field,Weeghman Park; Cubs Park,Chicago,IL,US
-CHI12,U.S. Cellular Field,White Sox Park; Comiskey Park II,Chicago,IL,US
+CHI12,Guaranteed Rate Field,U.S. Cellular Field;White Sox Park; Comiskey Park II,Chicago,IL,US
 CIN01,Lincoln Park Grounds,Union Cricket Club Grounds,Cincinnati,OH,US
 CIN02,Avenue Grounds,,Cincinnati,OH,US
 CIN03,Bank Street Grounds,,Cincinnati,OH,US
@@ -82,6 +82,7 @@ FOR03,Jailhouse Flats,,Fort Wayne,IN,US
 FTB01,Fort Bragg Field,,Fort Bragg,NC,US
 GEA01,Geauga Lake Grounds,Beyerle's Park,Geauga Lake,OH,US
 GLO01,Gloucester Point Grounds,,Gloucester City,NJ,US
+GLO02,Gloucester Fireworks Park,,Gloucester City,NJ,US
 GRA01,Ramona Park,,Grand Rapids,MI,US
 HAR01,Harrison Field,,Harrison,NJ,US
 HOB01,Elysian Field,,Hoboken,NJ,US
@@ -110,6 +111,7 @@ KAN06,Kauffman Stadium,Royals Stadium,Kansas City,MO,US
 KEO01,Perry Park,Walte's Pasture,Keokuk,IA,US
 LAS01,Cashman Field,,Las Vegas,NV,US
 LBV01,The Ballpark at Disney's Wide World,,Lake Buena Vista,FL,US
+LON01,London Stadium,,London,ENG,UK
 LOS01,Los Angeles Memorial Coliseum,,Los Angeles,CA,US
 LOS02,Wrigley Field,,Los Angeles,CA,US
 LOS03,Dodger Stadium,Chavez Ravine,Los Angeles,CA,US
@@ -161,6 +163,7 @@ NYC19,Washington Park IV,,Brooklyn,NY,US
 NYC20,Citi Field,,New York,NY,US
 NYC21,Yankee Stadium II,,New York,NY,US
 OAK01,Oakland-Alameda County Coliseum,Network Associates Coliseum,Oakland,CA,US
+OMA01,TD Ameritrade Park,,Omaha,NE,US
 PEN01,East End Park,Pendleton Park,Cincinnati,OH,US
 PHI01,Jefferson Street Grounds,Athletics Park,Philadelphia,PA,US
 PHI02,Centennial Park,,Philadelphia,PA,US
@@ -198,7 +201,7 @@ SAN01,Qualcomm Stadium,San Diego/Jack Murphy Stadium,San Diego,CA,US
 SAN02,PETCO Park,,San Diego,CA,US
 SEA01,Sick's Stadium,,Seattle,WA,US
 SEA02,Kingdome,,Seattle,WA,US
-SEA03,Safeco Field,,Seattle,WA,US
+SEA03,Safeco Field,T-Mobile Park,Seattle,WA,US
 SFO01,Seals Stadium,,San Francisco,CA,US
 SFO02,Candlestick Park,3Com Park,San Francisco,CA,US
 SFO03,AT&T Park,Pacific Bell Park; SBC Park,San Francisco,CA,US
