@@ -2924,3 +2924,33 @@ yearID,lgID,teamID,franchID,divID,Rank,Ghome,DivWin,WCWin,LgWin,WSWin,name,park,
 2019,AL,TEX,TEX,W,3,81,N,N,N,N,Texas Rangers,Globe Life Park in Arlington,2132994,111,112,TEX,TEX,TEX
 2019,AL,TOR,TOR,E,4,81,N,N,N,N,Toronto Blue Jays,Rogers Centre,1750114,97,98,TOR,TOR,TOR
 2019,NL,WAS,WSN,E,2,81,N,Y,Y,Y,Washington Nationals,Nationals Park,2259781,106,104,WSN,MON,WAS
+2020,NL,ARI,ARI,W,5,30,N,N,N,N,Arizona Diamondbacks,Chase Field,0,102,102,ARI,ARI,ARI
+2020,NL,ATL,ATL,E,1,30,Y,N,N,N,Atlanta Braves,SunTrust Park,0,107,106,ATL,ATL,ATL
+2020,AL,BAL,BAL,E,4,33,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,0,100,102,BAL,BAL,BAL
+2020,AL,BOS,BOS,E,5,31,N,N,N,N,Boston Red Sox,Fenway Park II,0,105,105,BOS,BOS,BOS
+2020,AL,CHA,CHW,C,2,30,N,Y,N,N,Chicago White Sox,Guaranteed Rate Field,0,99,100,CHW,CHA,CHA
+2020,NL,CHN,CHC,C,1,33,Y,N,N,N,Chicago Cubs,Wrigley Field,0,100,99,CHC,CHN,CHN
+2020,NL,CIN,CIN,C,2,29,N,Y,N,N,Cincinnati Reds,Great American Ball Park,0,106,106,CIN,CIN,CIN
+2020,AL,CLE,CLE,C,2,30,N,Y,N,N,Cleveland Indians,Progressive Field,0,104,103,CLE,CLE,CLE
+2020,NL,COL,COL,W,4,30,N,N,N,N,Colorado Rockies,Coors Field,0,116,117,COL,COL,COL
+2020,AL,DET,DET,C,5,27,N,N,N,N,Detroit Tigers,Comerica Park,0,102,105,DET,DET,DET
+2020,AL,HOU,HOU,W,2,28,N,Y,N,N,Houston Astros,Minute Maid Park,0,103,101,HOU,HOU,HOU
+2020,AL,KCA,KCR,C,4,30,N,N,N,N,Kansas City Royals,Kauffman Stadium,0,102,103,KCR,KCA,KCA
+2020,AL,LAA,ANA,W,4,31,N,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,0,100,101,LAA,ANA,ANA
+2020,NL,LAN,LAD,W,1,30,Y,N,Y,Y,Los Angeles Dodgers,Dodger Stadium,0,97,94,LAD,LAN,LAN
+2020,NL,MIA,FLA,E,2,26,N,Y,N,N,Miami Marlins,Marlins Park,0,97,99,MIA,FLO,MIA
+2020,NL,MIL,MIL,C,4,29,N,Y,N,N,Milwaukee Brewers,Miller Park,0,101,101,MIL,ML4,MIL
+2020,AL,MIN,MIN,C,1,31,Y,N,N,N,Minnesota Twins,Target Field,0,99,98,MIN,MIN,MIN
+2020,AL,NYA,NYY,E,2,31,N,Y,N,N,New York Yankees,Yankee Stadium III,0,98,96,NYY,NYA,NYA
+2020,NL,NYN,NYM,E,4,29,N,N,N,N,New York Mets,Citi Field,0,94,94,NYM,NYN,NYN
+2020,AL,OAK,OAK,W,1,32,Y,N,N,N,Oakland Athletics,O.co Coliseum,0,94,93,OAK,OAK,OAK
+2020,NL,PHI,PHI,E,3,32,N,N,N,N,Philadelphia Phillies,Citizens Bank Park,0,101,101,PHI,PHI,PHI
+2020,NL,PIT,PIT,C,5,32,N,N,N,N,Pittsburgh Pirates,PNC Park,0,97,99,PIT,PIT,PIT
+2020,NL,SDN,SDP,W,2,32,N,Y,N,N,San Diego Padres,Petco Park,0,94,95,SDP,SDN,SDN
+2020,AL,SEA,SEA,W,3,24,N,N,N,N,Seattle Mariners,T-Mobile Park,0,94,95,SEA,SEA,SEA
+2020,NL,SFN,SFG,W,3,33,N,N,N,N,San Francisco Giants,Oracle Park,0,94,95,SFG,SFN,SFN
+2020,NL,SLN,STL,C,3,27,N,Y,N,N,St. Louis Cardinals,Busch Stadium III,0,97,96,STL,SLN,SLN
+2020,AL,TBA,TBD,E,1,29,Y,N,Y,N,Tampa Bay Rays,Tropicana Field,0,96,95,TBR,TBA,TBA
+2020,AL,TEX,TEX,W,5,30,N,N,N,N,Texas Rangers,Globe Life Field,0,102,102,TEX,TEX,TEX
+2020,AL,TOR,TOR,E,3,26,N,Y,N,N,Toronto Blue Jays,Sahlen Field,0,100,99,TOR,TOR,TOR
+2020,NL,WAS,WSN,E,4,33,N,N,N,N,Washington Nationals,Nationals Park,0,103,102,WSN,MON,WAS
